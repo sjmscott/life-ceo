@@ -2,15 +2,18 @@
 layout: default
 ---
 
+<div class="container">
+
+
+  <h1>life.CEO<small>update in progress </small> </h1>
 <p> This is a work in progress-- everything will be cleaned up soon.  </p>
+  
 
 
-<div class="home">
 
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<div class="row">
+  <div class="col-md-12"><ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -22,6 +25,20 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>  <!-- end of col row -->
 
-</div>
+
+</div> <!-- end of row -->
+
+
+
+
+
+
+
+
+
+
+</div> <!-- end of container -->
+
+
