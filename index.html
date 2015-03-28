@@ -9,18 +9,14 @@ layout: default
 <p> This is a work in progress-- everything will be cleaned up soon.  </p>
   
 
-
-
-
 <div class="row">
   <div class="col-md-12"><ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+      
+        <h4>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>
+        </h4>
       </li>
     {% endfor %}
   </ul>
