@@ -17,5 +17,7 @@ gem install Jekyll
 
 In my case, jekyll new lifeceo
 
+check it out
+
 
 
