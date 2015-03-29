@@ -16,8 +16,11 @@ Douglas Macmillian writing for the Wall Street Journal writes about the phenomen
 Is this wild valuation another case of a champagne high? Probably.  Although this is an important and interesting question, I'd like to focus on whether this app is worthwhile.  Regardless of the speculative value of the company, I think that Slack platform has enormous benefits and offers the potential to solve many problems.  To summarize, here are few of the key benefits.
 
 1) Slack has a myriad of integrations with other software and tools.  There are [official integrations](https://slack.com/integrations) and [unofficial integrations](https://api.slack.com/community) that are built by the rapidly growing community. These integrations help pull information from a variety of services into the slack ecosystem. <img src="/assets/img/slack-integrations.png" class="img-responsive" alt="Responsive image">  
+
 2) Email was once cool, but now it is a burden.  Instead of hundreds of people sending a hodgepodge of unfiltered and unsorted into one email account, slack enables users to create channels to corral conversations into discreet containers. 
-3) All of the information is searchable and organized.
+
+3) All of conversations and information is archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.
+
 4) Slack works on just about every modern device and operating system.  If you want to use slack on the road, you will have to retire your Palm Pilot or flip phone.
 
 Finally, there is something enticing using a clean and well designed platform.  We'll have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  Slack is a disruptive technology that fixes some of the problems of how people communicate with one another.  For now, I'm going Slack.
