@@ -21,5 +21,11 @@ Slack is a disruptive technlogy that fixes some of the problems of how people co
 
 ![My helpful screenshot]({{ site.url }}/assets/img/slack-why.png)
 
- <img src="{{ site.url }}/images/slaack-whypng" alt="">
+ <img src="{{ site.url }}/assets/img/slack-why.png" alt="">
+
+  <img src="/assets/img/slack-why.png" alt="">
+
+
+
+
 

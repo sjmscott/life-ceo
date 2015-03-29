@@ -6,8 +6,8 @@
 </description>
     <link>http://life.ceo/</link>
     <atom:link href="http://life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2015 14:26:22 -0700</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 14:26:22 -0700</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2015 14:37:27 -0700</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 14:37:27 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,7 +28,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://life.ceo/assets/img/slack-why.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://life.ceo/images/slaack-whypng&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://life.ceo/assets/img/slack-why.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/slack-why.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
