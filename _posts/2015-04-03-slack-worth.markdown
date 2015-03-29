@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Slack"
+title: "Is Slack worth it?"
 author: Steve Scott
 ---
 <img src="/assets/img/slack-logo.png" class="img-responsive" alt="Responsive image">
@@ -23,7 +23,7 @@ Is this wild valuation another case of a champagne high? Probably.  Although thi
 
 4) Slack works on just about every modern device and operating system.  If you want to use slack on the road, you will have to retire your Palm Pilot or flip phone.
 
-Finally, there is something enticing using a clean and well designed platform.  We'll have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  Slack is a disruptive technology that fixes some of the problems of how people communicate with one another.  For now, I'm going Slack.
+Finally, there is something enticing using a clean and well designed platform.  We'll have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  Slack is a disruptive technology that fixes some of the problems of how people communicate with one another.  For now, I'm going to Slack.
 
 
 
