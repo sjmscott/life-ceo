@@ -6,8 +6,8 @@
 </description>
     <link>http://life.ceo/</link>
     <atom:link href="http://life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Mar 2015 17:38:58 -0700</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2015 17:38:58 -0700</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2015 17:51:05 -0700</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2015 17:51:05 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -50,7 +50,7 @@
       </item>
     
       <item>
-        <title>deploy your Jekyll Site</title>
+        <title>How to Deploy your Jekyll Site</title>
         <description>&lt;h1 id=&quot;buy-a-doman&quot;&gt;Buy a Doman&lt;/h1&gt;
 &lt;p&gt;I have bought domain names through several companies.  I haven’t used &lt;a href=&quot;https://www.godaddy.com&quot;&gt;GoDaddy&lt;/a&gt; for several years, but they used to be notorious for a confusing checkout process in which they were notorious for upselling products.  In contrast, &lt;a href=&quot;https://www.hover.com&quot;&gt;Hover&lt;/a&gt; proviides a smooth and uncluttered way to search for a domain and to purchase it.  I highly recommend Hover.&lt;/p&gt;
 

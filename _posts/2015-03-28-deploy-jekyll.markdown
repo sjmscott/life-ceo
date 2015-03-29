@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "deploy your Jekyll Site"
+title: "How to Deploy your Jekyll Site"
 ---
 
 # Buy a Doman
