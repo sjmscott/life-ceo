@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Why Slack"
+---
+
+
+A friend recently sent an article to me on the skyrocketing valuation of Slack.  When preparting this post, I initially couldn't find the link he had sent. I had to search through evernote, email, and instant messages to find the link he sent.  Douglas Macmillian writing for the Wall Street Journal writes, 
+
+> In an era of soaring valuations for tech startups, Slack has emerged as one of the industry’s most rapidly-appreciating assets a little more than a year after launching its first product. The startup has more than doubled in value since five months ago, when investors valued Slack at $1.12 billion, and now ranks among the world’s most valuable venture-backed developers of software for businesses. [^slack]
+
+Is this wild valuation another case of a chamagne high? Probably.  Here is the value of Slack:
+
+1) integrations with other software and tools.  
+2) email and chat replacement. 
+3) one stream that is searchable. All communications in one place rather than scattered throughout email or lost on a chat message.
+
+Slack is a disruptive technlogy that fixes some of the problems of how people communicate with one another.
+
+[^slack]: http://blogs.wsj.com/digits/2015/03/26/slacks-valuation-more-than-doubles-to-2-8-billion-in-five-months/
+
+
+![My helpful screenshot]({{ site.url }}/assets/img/slack-why.png)
+
+ <img src="{{ site.url }}/images/slaack-whypng" alt="">
+

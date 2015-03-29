@@ -15,9 +15,13 @@ gem install Jekyll
 
 # Create your new site
 
-In my case, jekyll new lifeceo
+in my case, jekyll new lifeceo
 
-check it out!
+# Fire up your new site!
+
+cd into lifeceo
+http://127.0.0.1:4000/
+
 
 
 
