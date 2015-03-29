@@ -4,7 +4,7 @@ email: sjmscott@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Exploring the many dimensions of life.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "life.ceo" # the base hostname & protocol for your site
+url: "www.life.ceo" # the base hostname & protocol for your site
 twitter_username: sscotty
 github_username:  sjmscott
 
@@ -12,7 +12,4 @@ github_username:  sjmscott
 markdown: kramdown
 
 # Google Anaylytics
-https://www.google.com/analytics/
-
-
 google_analytics_tracking_id: UA-61254493-1

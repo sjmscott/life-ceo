@@ -4,10 +4,10 @@
     <title>Life.CEO</title>
     <description>Exploring the many dimensions of life.
 </description>
-    <link>http://life.ceo/</link>
-    <atom:link href="http://life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Mar 2015 18:21:53 -0700</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2015 18:21:53 -0700</lastBuildDate>
+    <link>www.life.ceo/</link>
+    <atom:link href="www.life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 Mar 2015 18:34:10 -0700</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2015 18:34:10 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://life.ceo/2015/03/28/jekyll-snippets.html</link>
-        <guid isPermaLink="true">http://life.ceo/2015/03/28/jekyll-snippets.html</guid>
+        <link>www.life.ceo/2015/03/28/jekyll-snippets.html</link>
+        <guid isPermaLink="true">www.life.ceo/2015/03/28/jekyll-snippets.html</guid>
         
         
       </item>
@@ -39,12 +39,12 @@
 
 &lt;p&gt;In my case, jekyll new lifeceo&lt;/p&gt;
 
-&lt;p&gt;check it out&lt;/p&gt;
+&lt;p&gt;check it out!&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://life.ceo/2015/03/28/install-jekyll.html</link>
-        <guid isPermaLink="true">http://life.ceo/2015/03/28/install-jekyll.html</guid>
+        <link>www.life.ceo/2015/03/28/install-jekyll.html</link>
+        <guid isPermaLink="true">www.life.ceo/2015/03/28/install-jekyll.html</guid>
         
         
       </item>
@@ -64,8 +64,8 @@
 
 </description>
         <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://life.ceo/2015/03/28/deploy-jekyll.html</link>
-        <guid isPermaLink="true">http://life.ceo/2015/03/28/deploy-jekyll.html</guid>
+        <link>www.life.ceo/2015/03/28/deploy-jekyll.html</link>
+        <guid isPermaLink="true">www.life.ceo/2015/03/28/deploy-jekyll.html</guid>
         
         
       </item>
