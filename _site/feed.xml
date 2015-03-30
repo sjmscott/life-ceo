@@ -6,12 +6,12 @@
 </description>
     <link>http://www.life.ceo/</link>
     <atom:link href="http://www.life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2015 21:03:21 -0700</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 21:03:21 -0700</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2015 21:27:46 -0700</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 21:27:46 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Slack Worth</title>
+        <title>Is Slack worth it?</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/img/slack-logo.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn’t know exactly where to find the information. Was it a link on text messages?  Was it via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to “be a platform for team communication: everything in one place, instantly searchable, available wherever you go.&lt;sup id=&quot;fnref:slack2&quot;&gt;&lt;a href=&quot;#fn:slack2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”  Essentially, slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication.&lt;/p&gt;
@@ -50,6 +50,14 @@
         <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
         <link>http://www.life.ceo/2015/04/03/slack-worth.html</link>
         <guid isPermaLink="true">http://www.life.ceo/2015/04/03/slack-worth.html</guid>
+        
+        <category>software</category>
+        
+        <category>tool</category>
+        
+        <category>review</category>
+        
+        <category>tech</category>
         
         
       </item>
