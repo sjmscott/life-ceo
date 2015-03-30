@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.life.ceo" # the base hostname & protocol for your site
 twitter_username: sscotty
 github_username:  sjmscott
+paginate: 20
+paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown: kramdown

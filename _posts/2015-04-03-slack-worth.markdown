@@ -2,6 +2,7 @@
 layout: post
 title: "Is Slack worth it?"
 author: Steve Scott
+tags: software tool review tech
 ---
 <img src="/assets/img/slack-logo.png" class="img-responsive" alt="Responsive image">
 
