@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Need to Dash "
+title: "Won't Press Amazon Dash Button "
 author: Steve Scott
 tag: amazon technology
 ---
@@ -10,9 +10,20 @@ Amazon has just released a new way to buy things called [Amazon Dash](https://ww
 
 Although I'm passing on the Dash Button, it does bring up an interesting question:  How do you manage your house and office so you don't run out of things?  We will return to this topic in a future post.
 
-
+<div class="col-xs-12">
+<div class="col-xs-6">
 <img src="/assets/img/amazon-dash2.png" class="img-responsive" alt="Responsive image" width="300px">
+  </div>
 
+  <div class="col-xs-6">
 <img src="/assets/img/amazon-dash.png" class="img-responsive" alt="Responsive image" width="300px">
+  </div>
+
+
+
+
+  </div>
+
+
 
 	
