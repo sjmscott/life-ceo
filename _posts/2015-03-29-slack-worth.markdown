@@ -2,6 +2,7 @@
 layout: post
 title: "Is Slack worth it?"
 author: Steve Scott
+date: 2015-03-30
 tags: software, tool, review, tech
 ---
 
@@ -10,6 +11,8 @@ tags: software, tool, review, tech
 A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn't know exactly where to find the information. Was it a link on text messages?  Was it via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to "be a platform for team communication: everything in one place, instantly searchable, available wherever you go.[^slack2]"  Essentially, slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication. 
 
 <img src="/assets/img/slack-why.png" class="img-responsive" alt="Responsive image" width="400px"> 
+
+<!--break-->
 
 Douglas Macmillian writing for the Wall Street Journal blog on March 26, 2015 writes about the phenomenal growth and valuation of slack.  He writes:  
 

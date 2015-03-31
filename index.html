@@ -13,9 +13,16 @@ layout: default
     {% for post in paginator.posts %}
       <li>
       
-        <h4>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>
-        </h4>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>     </h3>
+          
+           <p>{{ post.content | split:'<!--break-->' | first }} 
+            {% if post.content contains '<!--break-->' %} </p>
+               <a href="{{ post.url }}">read more</a>
+            {% endif %}
+
+
+     
 
 
       </li>
