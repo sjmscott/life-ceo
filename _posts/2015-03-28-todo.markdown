@@ -5,6 +5,7 @@ author: Steve Scott
 ---
 
 #### todo
+1. write about page
 1. Do something with site title
 1. Tame CSS
 	1. Make pull quote smaller
@@ -17,5 +18,6 @@ author: Steve Scott
 1. create an RSS feed
 2. Set up pagination for next article
 1. add search
+1. install [Jekyll Picture tag](https://github.com/robwierzbowski/jekyll-picture-tag)
 
 

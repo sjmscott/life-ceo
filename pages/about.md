@@ -1,11 +1,17 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# What is the purpose of this website?
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The purpose of this site is to create a container to explore the many facets of life.  I hope that you will find value in the diversity of articles and ideas presented on this website.  It will serve many purposes: 1) It will be a collection of ideas, insights, and explorations.  2) It will be the incubator for a variety of projects I am working on.  3) It will be a place where readers can contribute their voices and find inspiration.  4)  It will be a website and community that evolves and grows.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# What will be the primary topics of this website?
+
+The website will follow my interests and ideas.  Since I am fascinated by a variety of topics, this will be a generalist website.  I am interested in spirituality, technology, photography, music, education, character formation, habits, ethics, food, gardening, and a host of other topics.
+
+
+Steve Scott
+2015 
