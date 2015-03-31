@@ -6,9 +6,29 @@
 </description>
     <link>http://www.life.ceo/</link>
     <atom:link href="http://www.life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Mar 2015 09:29:20 -0700</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2015 09:29:20 -0700</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2015 09:38:46 -0700</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2015 09:38:46 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>No Need to Dash </title>
+        <description>&lt;p&gt;Amazon has just released a new way to buy things called &lt;a href=&quot;https://www.amazon.com/oc/dash-button/&quot;&gt;Amazon Dash&lt;/a&gt;.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house, office, and yard?  It is already to easy to buy things on Amazon.  The product feels frivalous and wasteful.  Why not just take out your cell phone and scan the barcode and hit order?  I think the product is ripe for a Saturday Night Live parady.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. I’m giving the dash a thumbs down.&lt;/p&gt;
+
+&lt;p&gt;Although I’m passing on the Dash Button, it does bring up an interesting question:  How do you manage your house and office so you don’t run out of things?  We will return to this topic in a future post.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash2.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://www.life.ceo/2015/03/31/amazon-dash.html</link>
+        <guid isPermaLink="true">http://www.life.ceo/2015/03/31/amazon-dash.html</guid>
+        
+        <category>amazon technology</category>
+        
+        
+      </item>
     
       <item>
         <title>Is Slack worth it?</title>
@@ -47,9 +67,9 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://www.life.ceo/2015/04/03/slack-worth.html</link>
-        <guid isPermaLink="true">http://www.life.ceo/2015/04/03/slack-worth.html</guid>
+        <pubDate>Sun, 29 Mar 2015 00:00:00 -0700</pubDate>
+        <link>http://www.life.ceo/2015/03/29/slack-worth.html</link>
+        <guid isPermaLink="true">http://www.life.ceo/2015/03/29/slack-worth.html</guid>
         
         <category>software,</category>
         
@@ -58,107 +78,6 @@
         <category>review,</category>
         
         <category>tech</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>No Need to Dash </title>
-        <description>&lt;p&gt;Amazon has just released a new way to buy things called Amazon Dash.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house and yard?  It is already to easy to buy things on Amazon.  Amazon makes it easy to scan barcodes and find products.  The product feels frivalous and wasteful.  I think the product is ripe for a Saturday Night Live parady.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. I’m giving the dash a thumbs down.&lt;/p&gt;
-
-&lt;p&gt;Although I’m passing on the Dash Button, it does bring up an interesting question:  How do you manage your house and office so you don’t run out of things?  We will return to this topic in a future post.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash2.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 31 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://www.life.ceo/2015/03/31/amazon-dash.html</link>
-        <guid isPermaLink="true">http://www.life.ceo/2015/03/31/amazon-dash.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>To Do before Launch</title>
-        <description>&lt;h4 id=&quot;todo&quot;&gt;todo&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;write about page&lt;/li&gt;
-  &lt;li&gt;Do something with site title&lt;/li&gt;
-  &lt;li&gt;Tame CSS
-    &lt;ol&gt;
-      &lt;li&gt;Make pull quote smaller&lt;/li&gt;
-      &lt;li&gt;Do something different with the pictures.  For example .pull-right&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Make a back button from posts to main page&lt;/li&gt;
-  &lt;li&gt;Do I want a summary of article on page 1?&lt;/li&gt;
-  &lt;li&gt;set up commenting system&lt;/li&gt;
-  &lt;li&gt;Get rid of work in progress&lt;/li&gt;
-  &lt;li&gt;Write a better tagline&lt;/li&gt;
-  &lt;li&gt;create an RSS feed&lt;/li&gt;
-  &lt;li&gt;Set up pagination for next article&lt;/li&gt;
-  &lt;li&gt;add search&lt;/li&gt;
-  &lt;li&gt;install &lt;a href=&quot;https://github.com/robwierzbowski/jekyll-picture-tag&quot;&gt;Jekyll Picture tag&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://www.life.ceo/2015/03/28/todo.html</link>
-        <guid isPermaLink="true">http://www.life.ceo/2015/03/28/todo.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Install Jekyll</title>
-        <description>&lt;h1 id=&quot;install-jekyll&quot;&gt;Install Jekyll&lt;/h1&gt;
-
-&lt;p&gt;gem install Jekyll&lt;/p&gt;
-
-&lt;h1 id=&quot;move-into-the-folder-that-you-want-to-install-jekyll&quot;&gt;Move into the folder that you want to install Jekyll&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Open up the terminal&lt;/li&gt;
-  &lt;li&gt;If you aren’t a terminal jockey, then do the the following:
- type cd and then drag the folder on to the terminal.  Hit return.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;create-your-new-site&quot;&gt;Create your new site&lt;/h1&gt;
-
-&lt;p&gt;in my case, jekyll new lifeceo&lt;/p&gt;
-
-&lt;h1 id=&quot;fire-up-your-new-site&quot;&gt;Fire up your new site!&lt;/h1&gt;
-
-&lt;p&gt;cd into lifeceo
-http://127.0.0.1:4000/&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://www.life.ceo/2015/03/28/install-jekyll.html</link>
-        <guid isPermaLink="true">http://www.life.ceo/2015/03/28/install-jekyll.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>How to Deploy your Jekyll Site</title>
-        <description>&lt;h1 id=&quot;buy-a-doman&quot;&gt;Buy a Doman&lt;/h1&gt;
-&lt;p&gt;I have bought domain names through several companies.  I haven’t used &lt;a href=&quot;https://www.godaddy.com&quot;&gt;GoDaddy&lt;/a&gt; for several years, but they used to be notorious for a confusing checkout process in which they were notorious for upselling products.  In contrast, &lt;a href=&quot;https://www.hover.com&quot;&gt;Hover&lt;/a&gt; proviides a smooth and uncluttered way to search for a domain and to purchase it.  I highly recommend Hover.&lt;/p&gt;
-
-&lt;h1 id=&quot;configure-the-dns&quot;&gt;Configure the DNS&lt;/h1&gt;
-
-&lt;p&gt;Refer to the &lt;a href=&quot;https://docs.netlify.com/custom_domains/&quot;&gt;Netlify documentation&lt;/a&gt;, but here is the relavent snippet:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;* Create a CNAME that will &quot;alias&quot; your site to www.netlify.com. If your domain is example.com, you might alias www.example.com to www.netlify.com.
-* Create an A record for the raw domain (example.com) pointing to 198.61.251.14
-&lt;/code&gt;&lt;/pre&gt;
-
-</description>
-        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://www.life.ceo/2015/03/28/deploy-jekyll.html</link>
-        <guid isPermaLink="true">http://www.life.ceo/2015/03/28/deploy-jekyll.html</guid>
         
         
       </item>
