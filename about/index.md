@@ -6,14 +6,9 @@ image:
   credit: Steve Scott
   creditlink: 
 comments: false
-modified: 2014-12-24
+modified: 2015-04-03
 ---
 
----
-layout: post
-title: About
-permalink: /about/
----
 
 ### What is the purpose of this website?
 
