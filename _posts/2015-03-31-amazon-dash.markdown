@@ -14,7 +14,5 @@ Amazon has just released a new way to buy things called [Amazon Dash](https://ww
 Although I'm giving the Amazon Dash Button a thumbs down, it does bring up an interesting question for Life.ceo readers:  How do you manage your house and office so you don't run out of things?  We will return to this topic in a future post.
 
 
-<img src="/assets/img/amazon-dash.png" class="img-responsive" alt="Responsive image" width="300px">
- 
 
 	

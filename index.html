@@ -8,16 +8,13 @@ layout: default
 <div class="row">
   <div class="col-xs-12 col-md-9">
 
-    
-
-<h4> Recent Posts </h4>
     <ul>
 
     {% for post in paginator.posts %}
      
-       <h1><hr></h1>
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>     </h3>
+       <hr style="height:3px;border:none;color:#DCDCDC;background-color:#DCDCDC;" />
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>     </h2>
 
          
 
@@ -102,5 +99,4 @@ layout: default
 
 
 </div> <!-- end of container -->
-
 
