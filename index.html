@@ -8,11 +8,9 @@ layout: default
 <div class="row">
   <div class="col-xs-12 col-md-9">
 
-    <ul>
-
     {% for post in paginator.posts %}
      
-       <hr style="height:3px;border:none;color:#DCDCDC;background-color:#DCDCDC;" />
+      
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>     </h2>
 
@@ -23,17 +21,16 @@ layout: default
             {% if post.content contains '<!--break-->' %} </p>
                <a href="{{ post.url }}">Finish reading "{{ post.title }}" </a>
 
-   </br>
-                </br>
+
             {% endif %}
 
 
   
-
-
+</br>
+ <hr style="height:6px;border:none;color:#DCDCDC;background-color:#DCDCDC;" />  
 
     {% endfor %}
-  </ul>
+ 
 
 
 
@@ -50,7 +47,7 @@ layout: default
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
+</div> <!-- end of Pagination links -->
 
 
 </div>
@@ -88,11 +85,11 @@ layout: default
      -->
 
 
-  </div>
+  </div> <!-- end of col2 -->
 
 
 
-</div>
+</div> <!-- end of row -->
 
 
 
