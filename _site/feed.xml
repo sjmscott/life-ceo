@@ -6,8 +6,8 @@
 </description>
     <link>http://www.life.ceo/</link>
     <atom:link href="http://www.life.ceo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Apr 2015 19:52:41 -0700</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2015 19:52:41 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2015 20:04:07 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2015 20:04:07 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -42,7 +42,7 @@
     
       <item>
         <title>Won&#39;t Press Amazon Dash Button </title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash2.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/amazon-dash2.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Amazon has just released a new way to buy things called &lt;a href=&quot;https://www.amazon.com/oc/dash-button/&quot;&gt;Amazon Dash&lt;/a&gt;.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house, office, and yard?  It is already too easy to buy things on Amazon.  The Dash Button feels frivolous and wasteful.  Why not just take out your cell phone and scan the barcode and hit order?  I think the product is ripe for a Saturday Night Live parody.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. Honestly, if I saw this post on April 1st, I would think this was a good hearted joke.  Do you remember the &lt;a href=&quot;http://www.amazon.com/b?node=8037720011&quot;&gt;Amazon delivery drones&lt;/a&gt;?  Amazon still claims this is a real product delivery system, but that is a conversation for another post.&lt;/p&gt;
 
@@ -62,7 +62,7 @@
         <title>Is Slack worth it?</title>
         <description>&lt;p&gt;A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn’t know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to “be a platform for team communication: everything in one place, instantly searchable, available wherever you go.&lt;sup id=&quot;fnref:slack2&quot;&gt;&lt;a href=&quot;#fn:slack2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/slack-why.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;400px&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/slack-why.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Douglas Macmillian, writing for the Wall Street Journal blog on March 26, 2015, writes about the phenomenal growth and valuation of slack.  He writes:&lt;/p&gt;
 
@@ -76,9 +76,18 @@
 
 &lt;p&gt;2) Email was once cool, but it is now a burden.  Instead of hundreds of people sending a hodgepodge of unfiltered and unsorted email into one account, Slack enables users to create channels to corral conversations into discreet containers.&lt;/p&gt;
 
-&lt;p&gt;3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.
-&lt;img src=&quot;/assets/img/slack-integrations.png&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive image&quot; width=&quot;250px&quot; align=&quot;right&quot; /&gt;&lt;br /&gt;
-4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.&lt;/p&gt;
+&lt;p&gt;3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-xs-6 col-md-3&quot;&gt;
+    &lt;a href=&quot;/assets/img/slack-integrations.png&quot; class=&quot;thumbnail&quot;&gt;
+      &lt;img src=&quot;/assets/img/slack-integrations.png&quot; alt=&quot;...&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.&lt;/p&gt;
 
 &lt;p&gt;Finally, there is something enticing about using a clean and well designed platform.  We will have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  For me, the bottom line is that Slack fixes some of the problems of how people communicate with one another. For now, I’m going to use Slack.&lt;/p&gt;
 

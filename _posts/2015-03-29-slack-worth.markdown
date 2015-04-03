@@ -8,7 +8,7 @@ tags: software, tool, review, tech
 
 A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn't know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to "be a platform for team communication: everything in one place, instantly searchable, available wherever you go.[^slack2]"  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication. 
 
-<img src="/assets/img/slack-why.png" class="img-responsive" alt="Responsive image" width="400px" align="right"> 
+<img src="/assets/img/slack-why.png" class="img-responsive" alt="Responsive image" width="400px"> 
 
 Douglas Macmillian, writing for the Wall Street Journal blog on March 26, 2015, writes about the phenomenal growth and valuation of slack.  He writes:  
 
@@ -21,7 +21,17 @@ Is this wild valuation another case of a champagne high? Probably.  Although thi
 2) Email was once cool, but it is now a burden.  Instead of hundreds of people sending a hodgepodge of unfiltered and unsorted email into one account, Slack enables users to create channels to corral conversations into discreet containers. 
 
 3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.
-<img src="/assets/img/slack-integrations.png" class="img-responsive" alt="Responsive image" width="250px" align="right">  
+
+<div class="row">
+  <div class="col-xs-6 col-md-3">
+    <a href="/assets/img/slack-integrations.png" class="thumbnail">
+      <img src="/assets/img/slack-integrations.png" alt="...">
+    </a>
+  </div>
+
+</div>
+
+ 
 4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.
 
 Finally, there is something enticing about using a clean and well designed platform.  We will have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  For me, the bottom line is that Slack fixes some of the problems of how people communicate with one another. For now, I'm going to use Slack.
