@@ -2,62 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Life.Ceo</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-04-03T15:56:35-04:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://www.life.ceo/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.life.ceo" />
+<updated>2015-04-03T13:27:44-07:00</updated>
+<id>http://www.life.ceo/</id>
 <author>
   <name>Steve Scott</name>
-  <uri>http://localhost:4000/</uri>
-  <email>you@email.com</email>
+  <uri>http://www.life.ceo/</uri>
+  
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Fantastical 2 Review]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/fantastical-2/" />
-  <id>http://localhost:4000/fantastical-2</id>
-  <published>2015-04-02T00:00:00-04:00</published>
-  <updated>2015-04-02T00:00:00-04:00</updated>
+ <link rel="alternate" type="text/html" href="http://www.life.ceo/fantastical-2/" />
+  <id>http://www.life.ceo/fantastical-2</id>
+  <published>2015-04-02T00:00:00-07:00</published>
+  <updated>2015-04-02T00:00:00-07:00</updated>
   <author>
     <name>Steve Scott</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://www.life.ceo</uri>
+    <email></email>
   </author>
   <content type="html">
-    &lt;p&gt;I’ve been a long time user of the Fantastical Menu Bar app and Fantastical for the iPhone.  It always provided a quick scan of the day and helped me to check to see the next upcoming appointment.  If you are unfamiliar with Fantastical for the iPhone, check out Steve Owen’s &lt;a href=&quot;http://thesweetsetup.com/apps/best-calendar-app-iphone/&quot;&gt;review&lt;/a&gt; over at the Sweet Setup.&lt;/p&gt;
+    &lt;p&gt;I’ve been a long-time user of the Fantastical Menu Bar app and Fantastical for the iPhone.  It always provided a quick scan of the day and helped me to check to see the next upcoming appointment.  If you are unfamiliar with Fantastical for the iPhone, check out Steve Owen’s &lt;a href=&quot;http://thesweetsetup.com/apps/best-calendar-app-iphone/&quot;&gt;review&lt;/a&gt; over at the Sweet Setup.&lt;/p&gt;
 
 &lt;p&gt;I have also used &lt;a href=&quot;http://www.busymac.com/busycal/&quot;&gt;BusyCal&lt;/a&gt;– until now.&lt;/p&gt;
 
-&lt;p&gt;Fantastical 2 has just entered changed the osx calendar app field with a beautiful application.&lt;/p&gt;
+&lt;p&gt;Fantastical 2 has just changed the osx calendar app field with a beautiful application.&lt;/p&gt;
 
-&lt;p&gt;Here are a few of the features that make this worth looking into purchasing or at least giving it a shot with the 14 day demo which you can download &lt;a href=&quot;http://flexibits.com/fantastical&quot;&gt;here.&lt;/a&gt;&lt;img src=&quot;http://localhost:4000/images/fantastical2-mac-miniwindow.png&quot; alt=&quot;Slack&quot; class=&quot;image-right&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few of the features that make this worth purchasing or at least giving it a shot with the 14 day demo which you can download &lt;a href=&quot;http://flexibits.com/fantastical&quot;&gt;here.&lt;/a&gt;&lt;img src=&quot;http://www.life.ceo/images/fantastical2-mac-miniwindow.png&quot; alt=&quot;Slack&quot; class=&quot;image-right&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Use natural lanugage such as &lt;strong&gt;take car to shop at 1pm&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Fantastical 2 has sweated every pixel to create a beautiful and clear design. Federico Viticci writes: “Its information-rich display is based on a rigorous attention to visual cues and Flexibits have outdone themselves in translating the iOS experience to navigation that feels at home on OS X.”– &lt;a href=&quot;http://www.macstories.net/reviews/fantastical-2-for-mac-review-reinvented/&quot;&gt;MacStories&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“Calendar Sets” which help you to orgazie your calendars.  You can create a calendar set for home, one for work, and one for seeing family events.  Instead of toggling individual calendars on or off, you can quick jump to the set for the proper context. Even better, using &lt;a href=&quot;http://en.wikipedia.org/wiki/Geo-fence&quot;&gt;geofencing&lt;/a&gt; you can automatically switch calendars based on your location.&lt;/p&gt;
+    &lt;p&gt;“Calendar Sets” which help you to organize your calendars.  You can create a calendar set for home, one for work, and one for seeing family events.  Instead of toggling individual calendars on or off, you can quick jump to the set for the proper context. Even better, using &lt;a href=&quot;http://en.wikipedia.org/wiki/Geo-fence&quot;&gt;geofencing&lt;/a&gt; you can automatically switch calendars based on your location.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Fantastical 2 improves on the “Mini Window” which enables you to quickly scan through your appointments without opening the app.  You can now pull the window away from the menu bar and have it float wherever you want.  This is helpful when you are trying to consult your calendar while working in another app.&lt;/li&gt;
 &lt;/ol&gt;
 
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/fantastical-2/&quot;&gt;Fantastical 2 Review&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://localhost:4000&quot;&gt;Life.Ceo&lt;/a&gt; on April 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/fantastical-2/&quot;&gt;Fantastical 2 Review&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Become an Apple Affiliate]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/apple-affilate/" />
-  <id>http://localhost:4000/apple-affilate</id>
-  <published>2015-04-01T00:00:00-04:00</published>
-  <updated>2015-04-01T00:00:00-04:00</updated>
+ <link rel="alternate" type="text/html" href="http://www.life.ceo/apple-affilate/" />
+  <id>http://www.life.ceo/apple-affilate</id>
+  <published>2015-04-01T00:00:00-07:00</published>
+  <updated>2015-04-01T00:00:00-07:00</updated>
   <author>
     <name>Steve Scott</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://www.life.ceo</uri>
+    <email></email>
   </author>
   <content type="html">
     &lt;p&gt;Have you ever recommended an iphone app to someone? Of course you have!  Most of us technology mavens take great delight in helping someone solve a problem by using our &lt;em&gt;app de jour&lt;/em&gt;.  Gabe Wetherhead of MacDrifter provides a compelling reason to become an Apple Affiliate:&lt;/p&gt;
@@ -75,50 +74,50 @@
   &lt;li&gt;Do what you normally do (recommend, don’t push!)&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/apple-affilate/&quot;&gt;Become an Apple Affiliate&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://localhost:4000&quot;&gt;Life.Ceo&lt;/a&gt; on April 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/apple-affilate/&quot;&gt;Become an Apple Affiliate&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Won't Press Amazon Dash Button ]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/amazon-dash/" />
-  <id>http://localhost:4000/amazon-dash</id>
-  <published>2015-03-31T00:00:00-04:00</published>
-  <updated>2015-03-31T00:00:00-04:00</updated>
+ <link rel="alternate" type="text/html" href="http://www.life.ceo/amazon-dash/" />
+  <id>http://www.life.ceo/amazon-dash</id>
+  <published>2015-03-31T00:00:00-07:00</published>
+  <updated>2015-03-31T00:00:00-07:00</updated>
   <author>
     <name>Steve Scott</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://www.life.ceo</uri>
+    <email></email>
   </author>
   <content type="html">
     &lt;p&gt;Amazon has just released a new way to buy things called &lt;a href=&quot;https://www.amazon.com/oc/dash-button/&quot;&gt;Amazon Dash&lt;/a&gt;.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house, office, and yard?  It is already too easy to buy things on Amazon.  The Dash Button feels frivolous and wasteful.  Why not just take out your cell phone and scan the barcode and hit order?&lt;/p&gt;
 
 &lt;p&gt;I think the product is ripe for a Saturday Night Live parody.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. Honestly, if I saw this post on April 1st, I would think this was a good hearted joke.  Do you remember the &lt;a href=&quot;http://www.amazon.com/b?node=8037720011&quot;&gt;Amazon delivery drones&lt;/a&gt;?  Amazon still claims this is a real product delivery system, but that is a conversation for another post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/amazon-dash2.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/amazon-dash2.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/amazon-dash/&quot;&gt;Won&#39;t Press Amazon Dash Button &lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://localhost:4000&quot;&gt;Life.Ceo&lt;/a&gt; on March 31, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/amazon-dash/&quot;&gt;Won&#39;t Press Amazon Dash Button &lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on March 31, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Is Slack worth it?]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/slack-worth/" />
-  <id>http://localhost:4000/slack-worth</id>
-  <published>2015-03-30T00:00:00-04:00</published>
-  <updated>2015-03-30T00:00:00-04:00</updated>
+ <link rel="alternate" type="text/html" href="http://www.life.ceo/slack-worth/" />
+  <id>http://www.life.ceo/slack-worth</id>
+  <published>2015-03-30T00:00:00-07:00</published>
+  <updated>2015-03-30T00:00:00-07:00</updated>
   <author>
     <name>Steve Scott</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://www.life.ceo</uri>
+    <email></email>
   </author>
   <content type="html">
     &lt;p&gt;A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn’t know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to “be a platform for team communication: everything in one place, instantly searchable, available wherever you go.&lt;sup id=&quot;fnref:slack2&quot;&gt;&lt;a href=&quot;#fn:slack2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication.&lt;/p&gt;
 
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/slack-why.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://www.life.ceo/images/slack-why.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Douglas Macmillian, writing for the Wall Street Journal blog on March 26, 2015, writes about the phenomenal growth and valuation of slack.  He writes:&lt;/p&gt;
 
@@ -134,7 +133,7 @@
 
 &lt;p&gt;3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.&lt;/p&gt;
 
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/slack-integrations.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://www.life.ceo/images/slack-integrations.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.&lt;/p&gt;
 
@@ -151,7 +150,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/slack-worth/&quot;&gt;Is Slack worth it?&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://localhost:4000&quot;&gt;Life.Ceo&lt;/a&gt; on March 30, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/slack-worth/&quot;&gt;Is Slack worth it?&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on March 30, 2015.&lt;/p&gt;
   </content>
 </entry>
 
