@@ -11,7 +11,7 @@ layout: default
     <ul>
 
     {% for post in paginator.posts %}
-      <li>
+     
       
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <small>{{ post.date | date: "%b %-d, %Y" }}</small></a>     </h3>
@@ -27,8 +27,6 @@ layout: default
 
      
 
-
-      </li>
     {% endfor %}
   </ul>
 
