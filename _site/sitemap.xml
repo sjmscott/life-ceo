@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/fantastical-2/</loc>
+    <loc>http://www.life.ceo/fantastical-2/</loc>
     <lastmod>2015-04-02T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/apple-affilate/</loc>
+    <loc>http://www.life.ceo/apple-affilate/</loc>
     <lastmod>2015-04-01T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/amazon-dash/</loc>
+    <loc>http://www.life.ceo/amazon-dash/</loc>
     <lastmod>2015-03-31T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/slack-worth/</loc>
+    <loc>http://www.life.ceo/slack-worth/</loc>
     <lastmod>2015-03-30T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/404.html</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/bea/2015-04-03-Holy-Week-torch.html</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/posts/</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/404.html</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/posts/</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/tags/</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/theme-setup/</loc>
-    <lastmod>2015-04-03T15:56:35-04:00</lastmod>
+    <loc>http://www.life.ceo/about/</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.life.ceo/theme-setup/</loc>
+    <lastmod>2015-04-03T16:26:17-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.life.ceo/about/index.html</loc>
+    <lastmod>1428-09-24T23:00:00-05:00</lastmod>
   </url>
 </urlset>
