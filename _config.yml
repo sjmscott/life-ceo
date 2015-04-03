@@ -5,14 +5,13 @@ reading_time:     true
 words_per_minute: 100
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://localhost:4000
+url: http://www.life.ceo
 
 # Owner/author information
 owner:
   name:           Steve Scott
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I'm a professional educator, a technology maven, a tinkerer, and a person who is fascinated by the intricacies and complexities of life."
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -35,7 +34,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
