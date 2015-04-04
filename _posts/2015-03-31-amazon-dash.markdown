@@ -3,6 +3,7 @@ layout: post
 title: "Won't Press Amazon Dash Button "
 author: Steve Scott
 excerpt: The Amazon Dash button is a waste of time.
+comments: true
 tag: amazon technology
 
 

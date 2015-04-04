@@ -24,4 +24,3 @@ The website will follow my interests and ideas.  Since I am fascinated by a vari
 
 
 Steve Scott
-2015 

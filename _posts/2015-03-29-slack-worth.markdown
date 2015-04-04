@@ -3,6 +3,7 @@ layout: post
 title: "Is Slack worth it?"
 author: Steve Scott
 date: 2015-03-30
+comments: true
 tags: software, tool, review, tech
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Become an Apple Affiliate"
 author: Steve Scott
 date: 2015-04-01
+comments: true
 tags: software, tool, apple
 ---
 
