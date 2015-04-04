@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Life.CEO
+title: About Us
 image:
   feature: abstract-1.jpg
   credit: Steve Scott
