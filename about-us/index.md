@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 image:
-  feature: abstract-1.jpg
+  feature: tea.jpg
   credit: Steve Scott
   creditlink: 
 comments: false
