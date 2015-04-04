@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Life.CEO
 image:
   feature: abstract-1.jpg
