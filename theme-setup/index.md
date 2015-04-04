@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Theme Setup
 description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
 image:
