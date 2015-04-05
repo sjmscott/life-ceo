@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple Memorized Password or Password Manager?"
+title: "Passwords: Simple or Complex"
 description: "Why you should be using a password manager"
 tags: [productivity, software, tips]
 comments: true
