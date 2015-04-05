@@ -6,7 +6,7 @@ tags: [productivity, software, tips]
 comments: true
 ---
 
-![Password]({{ site.url }}/images/password.png)
+![Password]({{ site.url }}/images/password2.png)
 
 Last week there was a bit of an uproar over TD Canada Trust who disabled the ability for its users to copy/paste passwords into their iOS app.  In response to a customer question, the financial institution responded on twitter, ". . . your password should be committed to memory rather than using a password mgr" --[via Twitter](https://twitter.com/roustem/status/578909191533944832)"  TD Canada Trust responded to customer complaints and enabled copy/paste.    1 Password wrote a fantastic open letter which included the following idea:
 
