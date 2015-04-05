@@ -12,6 +12,6 @@ Last week there was a bit of an uproar over TD Canada Trust who disabled the abi
 
 > Using long, random, and unique passwords is the best defense that we, your users, have against attackers. This advice is true for every site we have to sign in to these days … and believe me, we sign in to a lot more than just our financial sites. Keeping 100 or so strong and unique passwords memorized is not only a silly suggestion, it’s nearly impossible for all but the most savant-ish of us. Password managers help us increase our security by remembering these unique passwords for us, keeping them stored securely, and filling them in on websites so we don’t have to. -- Source: [1Password Blog](https://blog.agilebits.com/2015/03/23/an-open-letter-to-banks/)
 
-Given a choice between simple passwords used at multiple sites or a password manager, I'll recommend the password manager **every**time.  
+Given a choice between a simple memorized password that is typically used at multiple sites or a complex password that is unique at every website, I'll recommend the password manager **every** time.  
 
 ![Password]({{ site.url }}/images/password.png)
