@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.life.ceo/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.life.ceo" />
-<updated>2015-04-04T19:23:13-07:00</updated>
+<updated>2015-04-04T19:36:11-07:00</updated>
 <id>http://www.life.ceo/</id>
 <author>
   <name>Steve Scott</name>
@@ -25,7 +25,9 @@
     <email></email>
   </author>
   <content type="html">
-    &lt;p&gt;Last week there was a bit of an uproar over TD Canada Trust who disabled the ability for its users to copy/paste passwords into their iOS app.  In response to a customer question, the financial institution responded on twitter, “. . . your password should be committed to memory rather than using a password mgr” –&lt;a href=&quot;https://twitter.com/roustem/status/578909191533944832&quot;&gt;via Twitter&lt;/a&gt;”  TD Canada Trust responded to customer complaints and enabled copy/paste.    1 Password wrote a fantastic open letter which included the following idea:&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/password.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last week there was a bit of an uproar over TD Canada Trust who disabled the ability for its users to copy/paste passwords into their iOS app.  In response to a customer question, the financial institution responded on twitter, “. . . your password should be committed to memory rather than using a password mgr” –&lt;a href=&quot;https://twitter.com/roustem/status/578909191533944832&quot;&gt;via Twitter&lt;/a&gt;”  TD Canada Trust responded to customer complaints and enabled copy/paste.    1 Password wrote a fantastic open letter which included the following idea:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Using long, random, and unique passwords is the best defense that we, your users, have against attackers. This advice is true for every site we have to sign in to these days … and believe me, we sign in to a lot more than just our financial sites. Keeping 100 or so strong and unique passwords memorized is not only a silly suggestion, it’s nearly impossible for all but the most savant-ish of us. Password managers help us increase our security by remembering these unique passwords for us, keeping them stored securely, and filling them in on websites so we don’t have to. – Source: &lt;a href=&quot;https://blog.agilebits.com/2015/03/23/an-open-letter-to-banks/&quot;&gt;1Password Blog&lt;/a&gt;&lt;/p&gt;
@@ -33,7 +35,7 @@
 
 &lt;p&gt;Given a choice between simple passwords used at multiple sites or a password manager, I’ll recommend the password manager &lt;strong&gt;every&lt;/strong&gt;time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/password.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/password.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/password-manager/&quot;&gt;Long Passwords&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 03, 2015.&lt;/p&gt;
   </content>
