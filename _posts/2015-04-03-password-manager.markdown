@@ -14,4 +14,4 @@ Last week there was a bit of an uproar over TD Canada Trust who disabled the abi
 
 Given a choice between simple passwords used at multiple sites or a password manager, I'll recommend the password manager **every** time.  
 
-![Password](images/password.jpg)
+
