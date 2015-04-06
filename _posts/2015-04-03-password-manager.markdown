@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Passwords: Simple or Complex"
+subtitle: "Use a Password Manager to create unique and complex passwords"
 description: "Why you should be using a password manager"
 tags: [productivity, software, tips]
 comments: true
 ---
 
-![Password]({{ site.url }}/images/password2.png)
+![Password](/img/password2.png)
 
 Last week there was a bit of an uproar over [TD Canada Trust](https://www.tdcanadatrust.com/products-services/banking/index-banking.jsp) who disabled the ability for its users to copy/paste passwords into their iOS app.  The controversy got into full swing when in response to a customer question, TD Canada Trust posted this on twitter: 
 
@@ -20,4 +21,4 @@ Eventually, TD Canada Trust relented and re-enabled copy/paste.
 
 Given a choice between a simple memorized password that is typically used at multiple sites or a complex password that is unique at every website, I'll recommend the password manager **every** time.  
 
-![Password]({{ site.url }}/images/password.png)
+![Password](/img/password.png)

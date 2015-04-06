@@ -4,12 +4,14 @@ title: "Is Slack worth it?"
 author: Steve Scott
 date: 2015-03-30
 comments: true
+subtitle:   "Slack is a powerful tool to organize team communication."
 tags: software, tool, review, tech
+header-img: "img/about-bg.jpg"
 ---
 
 A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn't know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to "be a platform for team communication: everything in one place, instantly searchable, available wherever you go.[^slack2]"  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication. 
 
-![Slack]({{ site.url }}/images/slack-why.png)
+![Slack](/img/slack-why.png)
 {: .image-right } 
 
 
@@ -25,7 +27,7 @@ Is this wild valuation another case of a champagne high? Probably.  Although thi
 
 3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.
 
-![Slack]({{ site.url }}/images/slack-integrations.png)
+![Slack]({{ site.url }}/img/slack-integrations.png)
 {: .image-right }
 
 

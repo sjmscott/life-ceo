@@ -13,5 +13,5 @@ Amazon has just released a new way to buy things called [Amazon Dash](https://ww
 
 I think the product is ripe for a Saturday Night Live parody.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. Honestly, if I saw this post on April 1st, I would think this was a good hearted joke.  Do you remember the [Amazon delivery drones](http://www.amazon.com/b?node=8037720011)?  Amazon still claims this is a real product delivery system, but that is a conversation for another post.  
 
-![Slack]({{ site.url }}/images/amazon-dash2.png)
+![dash](/img/amazon-dash2.png)
  

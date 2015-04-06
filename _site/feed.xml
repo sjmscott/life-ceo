@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Life.Ceo</title>
-<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://www.life.ceo/feed.xml" />
-<link rel="alternate" type="text/html" href="http://www.life.ceo" />
-<updated>2015-04-04T19:58:14-07:00</updated>
-<id>http://www.life.ceo/</id>
-<author>
-  <name>Steve Scott</name>
-  <uri>http://www.life.ceo/</uri>
-  
-</author>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life.CEO</title>
+    <description>Write your site description here. It will be used as your sites meta description as well!</description>
+    <link>www.life.ceo/</link>
+    <atom:link href="www.life.ceo/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 06 Apr 2015 11:19:05 -0700</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2015 11:19:05 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Watch the Sunset</title>
+        <description>&lt;p&gt;My wife and I finally had a moment to ourseleves.  As we walked on the beach in Carmel we spoke about some recent challenges, but more importantly found some space to talk about some bigger life ideas and dreams.  We stopped for a minute to capture the moment with a selfie and our bubble was pierced with a phone call from our son.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/img/selfie-voice-message.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-<entry>
-  <title type="html"><![CDATA[Passwords: Simple or Complex]]></title>
- <link rel="alternate" type="text/html" href="http://www.life.ceo/password-manager/" />
-  <id>http://www.life.ceo/password-manager</id>
-  <published>2015-04-03T00:00:00-07:00</published>
-  <updated>2015-04-03T00:00:00-07:00</updated>
-  <author>
-    <name>Steve Scott</name>
-    <uri>http://www.life.ceo</uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/password2.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;His message was actually sweet, uplifting, and comforting— we were quickly able to return to our time together.  However, the interuption helps demonstrates how fleeting moments are.  Smart devices— phones, watches, or whatever else constantly nag us and beckon for our attention.  I have a photographers eye and heart, so I’ll usually think about capturing moments, but I am also keenly aware of how the process of trying to record something can shift a momement.  Fr. Robert Walsh, SJ, a spiritual mentor of mine, once told me, “Watch the sunset! Don’t watch yourself watching the sunset!”   Instead of constantly recording or analyzing moments, we need to grow our ability to become fully engaged in a momement.  This deep presence to a particular moment opens up a greater connection to the peopele we are with, to the world around us, to our authentic self, and perhaps for some, the presence of God or other spiritual truths.  By being fully present to a moment we can delight in and celebrate beauty even while reconginzing that these mindful moments are fleeting.  We need to find pockets of rest, renewal, and beauty knowing that they will be peirced by something else that is calling our attention.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Apr 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/04/06/watch-the-sunset/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/04/06/watch-the-sunset/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Passwords: Simple or Complex</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/password2.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Last week there was a bit of an uproar over &lt;a href=&quot;https://www.tdcanadatrust.com/products-services/banking/index-banking.jsp&quot;&gt;TD Canada Trust&lt;/a&gt; who disabled the ability for its users to copy/paste passwords into their iOS app.  The controversy got into full swing when in response to a customer question, TD Canada Trust posted this on twitter:&lt;/p&gt;
 
@@ -43,32 +44,32 @@
 
 &lt;p&gt;Given a choice between a simple memorized password that is typically used at multiple sites or a complex password that is unique at every website, I’ll recommend the password manager &lt;strong&gt;every&lt;/strong&gt; time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/password.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/password.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/04/03/password-manager/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/04/03/password-manager/</guid>
+        
+        <category>productivity</category>
+        
+        <category>software</category>
+        
+        <category>tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fantastical 2 Review</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/fantastical2-mac-screenshot-dark.png&quot; alt=&quot;fantastical&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/password-manager/&quot;&gt;Passwords: Simple or Complex&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 03, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Fantastical 2 Review]]></title>
- <link rel="alternate" type="text/html" href="http://www.life.ceo/fantastical-2/" />
-  <id>http://www.life.ceo/fantastical-2</id>
-  <published>2015-04-02T00:00:00-07:00</published>
-  <updated>2015-04-02T00:00:00-07:00</updated>
-  <author>
-    <name>Steve Scott</name>
-    <uri>http://www.life.ceo</uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;I’ve been a long-time user of the Fantastical Menu Bar app and Fantastical for the iPhone.  It always provided a quick scan of the day and helped me to check to see the next upcoming appointment.  If you are unfamiliar with Fantastical for the iPhone, check out Steve Owen’s &lt;a href=&quot;http://thesweetsetup.com/apps/best-calendar-app-iphone/&quot;&gt;review&lt;/a&gt; over at the Sweet Setup.&lt;/p&gt;
+&lt;p&gt;I’ve been a long-time user of the Fantastical Menu Bar app and Fantastical for the iPhone.  It always provided a quick scan of the day and helped me to check to see the next upcoming appointment.  If you are unfamiliar with Fantastical for the iPhone, check out Steve Owen’s &lt;a href=&quot;http://thesweetsetup.com/apps/best-calendar-app-iphone/&quot;&gt;review&lt;/a&gt; over at the Sweet Setup.&lt;/p&gt;
 
 &lt;p&gt;I have also used &lt;a href=&quot;http://www.busymac.com/busycal/&quot;&gt;BusyCal&lt;/a&gt;– until now.&lt;/p&gt;
 
 &lt;p&gt;Fantastical 2 has just changed the osx calendar app field with a beautiful application.&lt;/p&gt;
 
-&lt;p&gt;Here are a few of the features that make this worth purchasing or at least giving it a shot with the 14 day demo which you can download &lt;a href=&quot;http://flexibits.com/fantastical&quot;&gt;here.&lt;/a&gt;&lt;img src=&quot;http://www.life.ceo/images/fantastical2-mac-miniwindow.png&quot; alt=&quot;Slack&quot; class=&quot;image-right&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here are a few of the features that make this worth purchasing or at least giving it a shot with the 14 day demo which you can download &lt;a href=&quot;http://flexibits.com/fantastical&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Use natural lanugage such as &lt;strong&gt;take car to shop at 1pm&lt;/strong&gt;&lt;/li&gt;
@@ -76,27 +77,27 @@
   &lt;li&gt;
     &lt;p&gt;“Calendar Sets” which help you to organize your calendars.  You can create a calendar set for home, one for work, and one for seeing family events.  Instead of toggling individual calendars on or off, you can quick jump to the set for the proper context. Even better, using &lt;a href=&quot;http://en.wikipedia.org/wiki/Geo-fence&quot;&gt;geofencing&lt;/a&gt; you can automatically switch calendars based on your location.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Fantastical 2 improves on the “Mini Window” which enables you to quickly scan through your appointments without opening the app.  You can now pull the window away from the menu bar and have it float wherever you want.  This is helpful when you are trying to consult your calendar while working in another app.&lt;/li&gt;
+  &lt;li&gt;Fantastical 2 improves on the “Mini Window” which enables you to quickly scan through your appointments without opening the app.  You can now pull the window away from the menu bar and have it float wherever you want.  This is helpful when you are trying to consult your calendar while working in another app&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/fantastical-2/&quot;&gt;Fantastical 2 Review&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 02, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Become an Apple Affiliate]]></title>
- <link rel="alternate" type="text/html" href="http://www.life.ceo/apple-affilate/" />
-  <id>http://www.life.ceo/apple-affilate</id>
-  <published>2015-04-01T00:00:00-07:00</published>
-  <updated>2015-04-01T00:00:00-07:00</updated>
-  <author>
-    <name>Steve Scott</name>
-    <uri>http://www.life.ceo</uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Have you ever recommended an iphone app to someone? Of course you have!  Most of us technology mavens take great delight in helping someone solve a problem by using our &lt;em&gt;app de jour&lt;/em&gt;.  Gabe Wetherhead of MacDrifter provides a compelling reason to become an Apple Affiliate:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/fantastical2-mac-miniwindow.png&quot; alt=&quot;fantastical&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/04/02/fantastical-2/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/04/02/fantastical-2/</guid>
+        
+        <category>productivity</category>
+        
+        <category>software</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Become an Apple Affiliate</title>
+        <description>&lt;p&gt;Have you ever recommended an iphone app to someone? Of course you have!  Most of us technology mavens take great delight in helping someone solve a problem by using our &lt;em&gt;app de jour&lt;/em&gt;.  Gabe Wetherhead of MacDrifter provides a compelling reason to become an Apple Affiliate:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Let me start by saying that even if you don’t have a blog, you should create an affiliate account and generate affiliate links. You’ll make some money back on your purchases you make with it. You will also make a few cents when you share it on Twitter and people buy something with the link. No one gets hurt and you get some motivation to share interesting stuff.  &lt;a href=&quot;http://www.macdrifter.com/2015/03/blink-for-ios.html&quot;&gt;via Macdrifter&lt;/a&gt;&lt;/p&gt;
@@ -110,51 +111,43 @@
   &lt;li&gt;Wait to be confirmed as an affiliate.&lt;/li&gt;
   &lt;li&gt;Do what you normally do (recommend, don’t push!)&lt;/li&gt;
 &lt;/ol&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/apple-affilate/&quot;&gt;Become an Apple Affiliate&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on April 01, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Won't Press Amazon Dash Button ]]></title>
- <link rel="alternate" type="text/html" href="http://www.life.ceo/amazon-dash/" />
-  <id>http://www.life.ceo/amazon-dash</id>
-  <published>2015-03-31T00:00:00-07:00</published>
-  <updated>2015-03-31T00:00:00-07:00</updated>
-  <author>
-    <name>Steve Scott</name>
-    <uri>http://www.life.ceo</uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Amazon has just released a new way to buy things called &lt;a href=&quot;https://www.amazon.com/oc/dash-button/&quot;&gt;Amazon Dash&lt;/a&gt;.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house, office, and yard?  It is already too easy to buy things on Amazon.  The Dash Button feels frivolous and wasteful.  Why not just take out your cell phone and scan the barcode and hit order?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/04/01/apple-affilate/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/04/01/apple-affilate/</guid>
+        
+        <category>software,</category>
+        
+        <category>tool,</category>
+        
+        <category>apple</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Won&#39;t Press Amazon Dash Button </title>
+        <description>&lt;p&gt;Amazon has just released a new way to buy things called &lt;a href=&quot;https://www.amazon.com/oc/dash-button/&quot;&gt;Amazon Dash&lt;/a&gt;.  When you sign up for the program you identify products that you use and your receive a special “Dash Button.” You press this button when you want to re-supply your inventory and amazon will begin to process the order.  While this is an interesting concept, it seems unnecessary.  Do people really want to have dash buttons all around the house, office, and yard?  It is already too easy to buy things on Amazon.  The Dash Button feels frivolous and wasteful.  Why not just take out your cell phone and scan the barcode and hit order?&lt;/p&gt;
 
 &lt;p&gt;I think the product is ripe for a Saturday Night Live parody.  I can picture a beautiful actress sitting on the toilet frantically pushing the dash button because she has run out of toilet paper only to have the UPS guy walk into the bathroom with a fresh roll of toilet paper. Honestly, if I saw this post on April 1st, I would think this was a good hearted joke.  Do you remember the &lt;a href=&quot;http://www.amazon.com/b?node=8037720011&quot;&gt;Amazon delivery drones&lt;/a&gt;?  Amazon still claims this is a real product delivery system, but that is a conversation for another post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.life.ceo/images/amazon-dash2.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/amazon-dash2.png&quot; alt=&quot;dash&quot; /&gt;&lt;/p&gt;
 
+</description>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/03/31/amazon-dash/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/03/31/amazon-dash/</guid>
+        
+        <category>amazon technology</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is Slack worth it?</title>
+        <description>&lt;p&gt;A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn’t know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to “be a platform for team communication: everything in one place, instantly searchable, available wherever you go.&lt;sup id=&quot;fnref:slack2&quot;&gt;&lt;a href=&quot;#fn:slack2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/amazon-dash/&quot;&gt;Won&#39;t Press Amazon Dash Button &lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on March 31, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Is Slack worth it?]]></title>
- <link rel="alternate" type="text/html" href="http://www.life.ceo/slack-worth/" />
-  <id>http://www.life.ceo/slack-worth</id>
-  <published>2015-03-30T00:00:00-07:00</published>
-  <updated>2015-03-30T00:00:00-07:00</updated>
-  <author>
-    <name>Steve Scott</name>
-    <uri>http://www.life.ceo</uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;A friend recently sent me information on the skyrocketing valuation of Slack.  As I began to prepare this post, I realized that I didn’t know exactly where to find the information. Was it a link on text messages?  Was it sent via evernote or a direct message on twitter?  Was it sent as a PDF through email?  Slack tries to solve the problem of communication fragmentation.  Slack seeks to “be a platform for team communication: everything in one place, instantly searchable, available wherever you go.&lt;sup id=&quot;fnref:slack2&quot;&gt;&lt;a href=&quot;#fn:slack2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”  Essentially, Slack seeks to replace text messages, emails, alerts, and notifications create a singular funnel of communication.&lt;/p&gt;
-
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://www.life.ceo/images/slack-why.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;/img/slack-why.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Douglas Macmillian, writing for the Wall Street Journal blog on March 26, 2015, writes about the phenomenal growth and valuation of slack.  He writes:&lt;/p&gt;
 
@@ -170,7 +163,7 @@
 
 &lt;p&gt;3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.&lt;/p&gt;
 
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://www.life.ceo/images/slack-integrations.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;www.life.ceo/img/slack-integrations.png&quot; alt=&quot;Slack&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.&lt;/p&gt;
 
@@ -186,9 +179,197 @@
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2015 00:00:00 -0700</pubDate>
+        <link>www.life.ceo/2015/03/30/slack-worth/</link>
+        <guid isPermaLink="true">www.life.ceo/2015/03/30/slack-worth/</guid>
+        
+        <category>software,</category>
+        
+        <category>tool,</category>
+        
+        <category>review,</category>
+        
+        <category>tech</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Man must explore, and this is exploration at its greatest</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://www.life.ceo/slack-worth/&quot;&gt;Is Slack worth it?&lt;/a&gt; was originally published by Steve Scott at &lt;a href=&quot;http://www.life.ceo&quot;&gt;Life.Ceo&lt;/a&gt; on March 30, 2015.&lt;/p&gt;
-  </content>
-</entry>
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
 
-</feed>
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Sep 2014 05:00:00 -0700</pubDate>
+        <link>www.life.ceo/2014/09/24/man-must-explore/</link>
+        <guid isPermaLink="true">www.life.ceo/2014/09/24/man-must-explore/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>I believe every human has a finite number of heartbeats. I don&#39;t intend to waste any of mine.</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 05:00:00 -0700</pubDate>
+        <link>www.life.ceo/2014/09/18/i-believe/</link>
+        <guid isPermaLink="true">www.life.ceo/2014/09/18/i-believe/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Science has not yet mastered prophecy</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 05:00:00 -0700</pubDate>
+        <link>www.life.ceo/2014/08/24/science-has-not-yet-mastered-prophecy/</link>
+        <guid isPermaLink="true">www.life.ceo/2014/08/24/science-has-not-yet-mastered-prophecy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Failure is not an option</title>
+        <description>&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman&#39;s earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there&#39;s no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That&#39;s how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; /&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Jul 2014 05:00:00 -0700</pubDate>
+        <link>www.life.ceo/2014/07/08/failure-is-not-an-option/</link>
+        <guid isPermaLink="true">www.life.ceo/2014/07/08/failure-is-not-an-option/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
