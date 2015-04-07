@@ -14,7 +14,6 @@ A friend recently sent me information on the skyrocketing valuation of Slack.  A
 ![Slack](/img/slack-why.png)
 {: .image-right } 
 
-
 Douglas Macmillian, writing for the Wall Street Journal blog on March 26, 2015, writes about the phenomenal growth and valuation of slack.  He writes:  
 
 > In an era of soaring valuations for tech startups, Slack has emerged as one of the industry’s most rapidly-appreciating assets a little more than a year after launching its first product. The startup has more than doubled in value since five months ago, when investors valued Slack at $1.12 billion, and now ranks among the world’s most valuable venture-backed developers of software for businesses. [^slack]
