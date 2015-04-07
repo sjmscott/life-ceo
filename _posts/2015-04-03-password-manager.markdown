@@ -4,6 +4,7 @@ title: "Passwords: Simple or Complex"
 subtitle: "Use a Password Manager to create unique and complex passwords"
 description: "Why you should be using a password manager"
 tags: [productivity, software, tips]
+header-img: "img/bg-shingle.jpg"
 comments: true
 ---
 

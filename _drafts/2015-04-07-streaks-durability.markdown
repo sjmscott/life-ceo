@@ -6,7 +6,7 @@ date: 2015-04-07
 comments: true
 subtitle:   "What should you do when a streak ends?"
 tags: habit, tools
-header-img: "img/about-bg.jpg"
+header-img: "img/bg-green-sea.jpg"
 ---
 As we begin another season of baseball, I'm pondering the topic of streaks.  When I think of baseball streaks, I think of two categories:  durability streaks and performance streaks.  
 
