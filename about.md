@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Life.CEO: Purpose and Topics"
-header-img: "img/post-bg-about.png"
+header-img: "img/post-bg-about.jpg"
 ---
 
 ### What is the purpose of this website?
