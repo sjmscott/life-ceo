@@ -1,13 +1,13 @@
 # Site settings
 title: Life.CEO
-header-img: img/home-bg.jpg
+header-img: img/cover-beach.jpg
 email: sjmscott@gmail.com
 description: "Explorations, Dicoveries, and Directions"
 baseurl: ""
 url: "www.life.ceo"
 twitter_username: sscotty
 github_username:  sjmscott
-facebook_username:  stevejscott
+facebook_username:  
 
 # Build settings
 markdown: kramdown
