@@ -21,7 +21,7 @@ Here are a few of the features that make this worth purchasing or at least givin
 2. Fantastical 2 has sweated every pixel to create a beautiful and clear design. Federico Viticci writes: "Its information-rich display is based on a rigorous attention to visual cues and Flexibits have outdone themselves in translating the iOS experience to navigation that feels at home on OS X."-- [MacStories](http://www.macstories.net/reviews/fantastical-2-for-mac-review-reinvented/) 
 3. "Calendar Sets" which help you to organize your calendars.  You can create a calendar set for home, one for work, and one for seeing family events.  Instead of toggling individual calendars on or off, you can quick jump to the set for the proper context. Even better, using [geofencing](http://en.wikipedia.org/wiki/Geo-fence) you can automatically switch calendars based on your location.
 
-4. Fantastical 2 improves on the "Mini Window" which enables you to quickly scan through your appointments without opening the app.  You can now pull the window away from the menu bar and have it float wherever you want.  This is helpful when you are trying to consult your calendar while working in another app
+4. Fantastical 2 improves on the "Mini Window" which enables you to quickly scan through your appointments without opening the app.  You can now pull the window away from the menu bar and have it float wherever you want.  This is helpful when you are trying to consult your calendar while working in another app.
 
 
 <a href="#">
