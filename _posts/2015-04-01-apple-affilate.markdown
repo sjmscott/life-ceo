@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Become an Apple Affiliate"
+subtitle: "Why not make a few dollars on your recommendations?"
 author: Steve Scott
 date: 2015-04-01
 comments: true

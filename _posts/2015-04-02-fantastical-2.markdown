@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Fantastical 2 Review"
-description: "Viticci on Fantastical 2"
 tags: [productivity, software]
-subtitle: "A major update to a great product"
+subtitle: "A major update to a great calendar application"
 comments: true
 ---
 
