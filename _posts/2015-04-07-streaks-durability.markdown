@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "On Streaks and Habits"
+title: "Learning from Gehrig and DiMaggio"
 author: Steve Scott
 date: 2015-04-07
 comments: true
-subtitle:   "What should you do when a streak ends?"
+subtitle:   "Durability and Performance Streaks"
 tags: habit, tools
 header-img: "img/bg-green-sea.jpg"
 ---
@@ -23,15 +23,22 @@ There is much speculation on how DiMaggio accomplished such an incredible streak
 
 > The first is that it was a binomial event of extremely low probability but one that actually happened in 1941—something like actually witnessing the occurrence of 100 straight heads in coin tossing. The second is that it is an example of a superior hitter exceeding even his own normal capabilities [^sabr].
 
-Beltrami and Mendelsohn argue the latter— DiMaggio was a top hitter who for a brief time was able to raise his game on a consistent basis.  Whereas Pete Rose hit above his lifetime average during his 1978 streak, DiMaggio hit near his lifetime average during his streak.  
-
-## 183 Guitar Playing Streak
-
-## Durability vs Performance
+Beltrami and Mendelsohn argue the latter— DiMaggio was a top hitter who for a brief time was able to raise his game on a consistent basis.   Perhaps during the streak DiMaggio had some good fortune when an outfielder was playing too deep and a ball fell for a hit.  However, DiMaggio's streak was not based on luck.  He was a great hitter who strung together 56 games of great hitting.
 
 
-## What to do when the streak ends
-We can accomplish great things if we show up183 days
+## What are the lessons of these streaks?
+
+How can we apply this understanding of streaks to our daily lives?  
+
+All of us are capable of durability streaks.  We can honor our commitments by showing up consistently despite our momentary aches, pains, and whims that might pull us in another direction.  We need to be clear on what we want to accomplish and then fight tooth and nail to keep our commitment.  When we make a goal such as "I write 250 words every day" or "I meditate for :20 minutes every day" we must find a way to honor the commitment.
+
+Performance goals are far trickier to put into practice.  Through dedicated practice, focus, and purpose, we will perform at a higher level.  We will raise our game.  Through the study of other pitchers and constant batting practice, DiMaggio opened a door to being a great hitter.  A teacher can dream about stringing together weeks of having a dynamic classroom in which students are eager to learn.  The teacher needs to anticipate the moods of the students, devise innovative lesson plans, and bring positive energy into each class.  However, some days a lesson will crash and burn despite our best intentions.  When we find ourselves in a  DiMaggio-like streak, we need to enjoy the ride.  You don't get into this zone because you are lucky.  You get there because you have prepared and set yourself up with all of the tools and conditions for success.
+
+Embrace the moments when you can't write the lyrics down fast enough or when you are discovering how a particular combination of chords resonates with your heart.  These are moments when it feels like everything is coming together and you have tremendous flow and clarity.  Work hard to keep this going as it will feed you when the writers block or boredom eventually returns.  
+
+When the DiMaggio-like performance streak ends, turn up your Gehrig-like resolution to keep fighting despite the difficulty.
+
+
 
 
 
