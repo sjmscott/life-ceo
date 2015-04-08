@@ -16,7 +16,7 @@ Last week there was a bit of an uproar over [TD Canada Trust](https://www.tdcana
 
 AgileBits, the makers of the awesome **1Password** app wrote a fantastic open letter which included the following:
 
-> Using long, random, and unique passwords is the best defense that we, your users, have against attackers. This advice is true for every site we have to sign in to these days … and believe me, we sign in to a lot more than just our financial sites. Keeping 100 or so strong and unique passwords memorized is not only a silly suggestion, it’s nearly impossible for all but the most savant-ish of us. Password managers help us increase our security by remembering these unique passwords for us, keeping them stored securely, and filling them in on websites so we don’t have to. -- Source: [1Password Blog](https://blog.agilebits.com/2015/03/23/an-open-letter-to-banks/)
+> Using long, random, and unique passwords is the best defense that we, your users, have against attackers. This advice is true for every site we have to sign in to these days … and believe me, we sign in to a lot more than just our financial sites. Keeping 100 or so strong and unique passwords memorized is not only a silly suggestion, it’s nearly impossible for all but the most savant-ish of us. Password managers help us increase our security by remembering these unique passwords for us, keeping them stored securely, and filling them in on websites so we don’t have to. - Source: [1Password Blog](https://blog.agilebits.com/2015/03/23/an-open-letter-to-banks/)
 
 Eventually, TD Canada Trust relented and re-enabled copy/paste.
 
