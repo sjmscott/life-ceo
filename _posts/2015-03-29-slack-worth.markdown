@@ -26,8 +26,8 @@ Is this wild valuation another case of a champagne high? Probably.  Although thi
 
 3) All of the conversations and information are archived and can be searched.  It saves you the trouble of trying to figure out where you put that link or article that a colleague or friend sent to you.
 
-![Slack]({{ site.url }}/img/slack-integrations.png)
-{: .image-right }
+![Slack](/img/slack-integrations.png)
+
 
 
 
