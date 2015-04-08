@@ -8,6 +8,8 @@ url: "www.life.ceo"
 twitter_username: sscotty
 github_username:  sjmscott
 facebook_username:  
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
 
 # Build settings
 markdown: kramdown

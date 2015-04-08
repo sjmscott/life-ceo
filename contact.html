@@ -9,4 +9,9 @@ header-img: "img/bg-green-sea.jpg"
 
 
 
-{% include contact.html %}
+
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
