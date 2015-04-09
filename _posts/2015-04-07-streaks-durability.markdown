@@ -11,6 +11,7 @@ category: productivity
 ---
 As we begin another season of baseball, I'm pondering the topic of streaks.  When I think of baseball streaks, I think of two categories:  durability streaks and performance streaks.
 
+
 ## Durability Streaks
 
 My first baseball hero was Lou Gehrig.  Although he died forty years before my baseball awakening, I was captivated by Gary Cooper's portrayal of Gehrig in the 1942 movie, "[The Pride of the Yankees](http://en.wikipedia.org/wiki/The_Pride_of_the_Yankees)." After replacing Wally Pipp in the Yankees lineup on June 2, 1925, Gehrig played for 2,130 games.  For 14 years Gehrig suited up and played through headaches, colds, aches, back spasms, a broken thumb, and a broken toe.  Batting helmets were not introduced in baseball until 1956 and were not used at all during the 1920's and 1930's.  Gehrig was dropped on more than once by balls to the face and head.  Despite all of his aches and pains, Gehrig put up historic numbers for batting and slugging average.  He earned his nickname, "The Iron Horse" the hard way.  Of course, Cal Ripken extended Gehrig's streak which is also a story of discipline, hardwork, and determination.  Gehrig and Ripken exemplify "durability streaks." ![Lou Gehrig](/img/lou-Gehrig.jpg)
