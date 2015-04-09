@@ -7,6 +7,7 @@ comments: true
 subtitle:   "Durability and Performance Streaks"
 tags: habit, tools
 header-img: "img/bg-green-sea.jpg"
+category: productivity
 ---
 As we begin another season of baseball, I'm pondering the topic of streaks.  When I think of baseball streaks, I think of two categories:  durability streaks and performance streaks.
 

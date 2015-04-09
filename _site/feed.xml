@@ -5,8 +5,8 @@
     <description>Explorations, Discoveries, and Directions</description>
     <link>www.life.ceo/</link>
     <atom:link href="www.life.ceo/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Apr 2015 17:59:05 -0700</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2015 17:59:05 -0700</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2015 07:10:23 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2015 07:10:23 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -57,13 +57,15 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 07 Apr 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/04/07/streaks-durability/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/04/07/streaks-durability/</guid>
+        <link>www.life.ceo/productivity/2015/04/07/streaks-durability/</link>
+        <guid isPermaLink="true">www.life.ceo/productivity/2015/04/07/streaks-durability/</guid>
         
         <category>habit,</category>
         
         <category>tools</category>
         
+        
+        <category>productivity</category>
         
       </item>
     
@@ -90,8 +92,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/password.png&quot; alt=&quot;Password&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/04/03/password-manager/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/04/03/password-manager/</guid>
+        <link>www.life.ceo/security/2015/04/03/password-manager/</link>
+        <guid isPermaLink="true">www.life.ceo/security/2015/04/03/password-manager/</guid>
         
         <category>productivity</category>
         
@@ -99,6 +101,8 @@
         
         <category>tips</category>
         
+        
+        <category>security</category>
         
       </item>
     
@@ -128,13 +132,15 @@
 &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Apr 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/04/02/fantastical-2/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/04/02/fantastical-2/</guid>
+        <link>www.life.ceo/software/2015/04/02/fantastical-2/</link>
+        <guid isPermaLink="true">www.life.ceo/software/2015/04/02/fantastical-2/</guid>
         
         <category>productivity</category>
         
         <category>software</category>
         
+        
+        <category>software</category>
         
       </item>
     
@@ -156,8 +162,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/04/01/apple-affilate/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/04/01/apple-affilate/</guid>
+        <link>www.life.ceo/software/2015/04/01/apple-affilate/</link>
+        <guid isPermaLink="true">www.life.ceo/software/2015/04/01/apple-affilate/</guid>
         
         <category>software,</category>
         
@@ -165,6 +171,8 @@
         
         <category>apple</category>
         
+        
+        <category>software</category>
         
       </item>
     
@@ -178,11 +186,13 @@
 
 </description>
         <pubDate>Tue, 31 Mar 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/03/31/amazon-dash/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/03/31/amazon-dash/</guid>
+        <link>www.life.ceo/lifestyle/2015/03/31/amazon-dash/</link>
+        <guid isPermaLink="true">www.life.ceo/lifestyle/2015/03/31/amazon-dash/</guid>
         
         <category>amazon, technology</category>
         
+        
+        <category>lifestyle</category>
         
       </item>
     
@@ -212,7 +222,6 @@
 
 &lt;p&gt;Finally, there is something enticing about using a clean and well designed platform.  We will have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  For me, the bottom line is that Slack fixes some of the problems of how people communicate with one another. For now, I’m going to use Slack.&lt;/p&gt;
 
-
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:slack2&quot;&gt;
@@ -225,8 +234,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 30 Mar 2015 00:00:00 -0700</pubDate>
-        <link>www.life.ceo/2015/03/30/slack-worth/</link>
-        <guid isPermaLink="true">www.life.ceo/2015/03/30/slack-worth/</guid>
+        <link>www.life.ceo/tool/2015/03/30/slack-worth/</link>
+        <guid isPermaLink="true">www.life.ceo/tool/2015/03/30/slack-worth/</guid>
         
         <category>software,</category>
         
@@ -236,6 +245,8 @@
         
         <category>tech</category>
         
+        
+        <category>tool</category>
         
       </item>
     

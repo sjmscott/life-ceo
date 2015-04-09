@@ -6,6 +6,7 @@ author: Steve Scott
 date: 2015-04-01
 comments: true
 tags: software, tool, apple
+category: software
 ---
 
 Have you ever recommended an iphone app to someone? Of course you have!  Most of us technology mavens take great delight in helping someone solve a problem by using our _app de jour_.  Gabe Wetherhead of MacDrifter provides a compelling reason to become an Apple Affiliate:

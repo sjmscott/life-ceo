@@ -3,6 +3,9 @@ layout: page
 description: "Explorations, Discoveries, and Directions"
 ---
 
+
+
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -34,3 +37,4 @@ description: "Explorations, Discoveries, and Directions"
     {% endif %}
 </ul>
 {% endif %}
+

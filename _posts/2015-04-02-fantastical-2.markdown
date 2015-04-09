@@ -4,6 +4,7 @@ title: "Fantastical 2 Review"
 tags: [productivity, software]
 subtitle: "A major update to a great calendar application"
 comments: true
+category: software
 ---
 
 

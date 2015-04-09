@@ -6,6 +6,7 @@ description: "Why you should be using a password manager"
 tags: [productivity, software, tips]
 header-img: "img/bg-shingle.jpg"
 comments: true
+category: security
 ---
 
 ![Password](/img/password2.png)

@@ -6,6 +6,7 @@ author: Steve Scott
 excerpt: The Amazon Dash button is a waste of time.
 comments: true
 tag: amazon, technology
+category: lifestyle
 
 
 
