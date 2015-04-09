@@ -28,13 +28,12 @@ Is this wild valuation another case of a champagne high? Probably.  Although thi
 
 ![Slack](/img/slack-integrations.png)
 
-
-
-
- 
 4) Slack works on just about every modern device and operating system.  If you want to use Slack on the road, you will have to retire your Palm Pilot or flip phone.
 
 Finally, there is something enticing about using a clean and well designed platform.  We will have to wait to see if Slack helps make sense of the digital explosions in our lives or if it gets tossed aside in the digital dustbin.  For me, the bottom line is that Slack fixes some of the problems of how people communicate with one another. For now, I'm going to use Slack.
+
+* TOC
+{:toc}
 
 [^slack2]: https://slack.com 
 [^slack]: http://blogs.wsj.com/digits/2015/03/26/slacks-valuation-more-than-doubles-to-2-8-billion-in-five-months/

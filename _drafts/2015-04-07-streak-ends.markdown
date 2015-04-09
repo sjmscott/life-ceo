@@ -9,3 +9,5 @@ tags: habit, tools
 header-img: "img/bg-green-sea.jpg"
 ---
 We can put ourselves in a position to do our best with full focus and intention.  When a streak ends, we need to re-focus, re-commit, re-evaluate and start again. 
+
+[see also]({% post_url 2015-04-03-password-manager %})
