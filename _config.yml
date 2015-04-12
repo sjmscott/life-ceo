@@ -12,6 +12,10 @@ facebook_username:
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
+collections:
+  row:
+    output: true
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
