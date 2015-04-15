@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The CEO Takes Minimum Wage"
+author: Steve Scott
+date: 2015-04-08
+comments: true
+subtitle:   "What happens to a company when the CEO drops his salary and raises his lowest paid employees salaries?"
+tags: habit, tools
+header-img: "img/bg-green-sea.jpg"
+---
+
+There is a national debate on the growing disparity between the rich and the poor.  Researchers Alyssa Davis and Lawrence Mishel at the Economic Policy Institute have found the salary gap between CEO's and workers has grown at an astonishing rate:
+
+> The CEO-to-worker compensation ratio was 20-to-1 in 1965 and 29.9-to-1 in 1978, grew to 122.6-to-1 in 1995, peaked at 383.4-to-1 in 2000, and was 295.9-to-1 in 2013, far higher than it was in the 1960s, 1970s, 1980s, or 1990s.[^1]
+
+<iframe width="100%" height="460" src="http://www.epi.org?p=66017&view=embed&embed_template=charts_v2013_08_21&embed_date=20150415&onp=66041&utm_source=epi_press&utm_medium=chart_embed&utm_campaign=charts_v2" frameborder="0"></iframe>
+
+
+Although this is a critical conversation, this post will focus on the dynamics of leadership.  What happens when a CEO is concerned about the emotional well-being, peace, and happiness of everyone on his team?  Dan Price put this idea into practice in a radical way.  Price, who founded Gravity Payments made $1 million dollars a year compared to other workers in his company made $40,000 a year.  
+
+Watch this video as Price announces that he is setting $70,000 as the minimum wage for everyone in the company and he is lowering his salary to the base.
+
+
+<iframe width="480" height="373" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" title="New York Times Video - Embed Player" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.html?videoId=100000003628438&playerType=embed"></iframe>
+
+
+
+
+[^1]:http://www.epi.org/publication/ceo-pay-continues-to-rise/
