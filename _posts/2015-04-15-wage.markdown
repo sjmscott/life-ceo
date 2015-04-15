@@ -5,7 +5,7 @@ author: Steve Scott
 date: 2015-04-15
 comments: true
 subtitle:   "What happens to a company when the CEO drops his salary and raises his lowest paid employees salaries?"
-tags: habit, tools
+tags: leadership
 header-img: "img/bg-green-sea.jpg"
 ---
 
