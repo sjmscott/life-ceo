@@ -2,7 +2,7 @@
 layout: post
 title: "The CEO Takes Minimum Wage"
 author: Steve Scott
-date: 2015-04-08
+date: 2015-04-15
 comments: true
 subtitle:   "What happens to a company when the CEO drops his salary and raises his lowest paid employees salaries?"
 tags: habit, tools
